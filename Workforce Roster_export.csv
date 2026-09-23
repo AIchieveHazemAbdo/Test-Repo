@@ -1,0 +1,16 @@
+annual_salary,currency_code,dept_code,employee_id,employee_image_url,employee_name,employment_status,end_date,entity_code,id,job_code,start_date
+90785.26,EUR,D-SALES-EMEA,EMP-0047,https://randomuser.me/api/portraits/women/38.jpg,Casey Patel,Active,,VP-EU,47,JF-FS,2024-11-01
+99219.67,EUR,D-SALES-EMEA,EMP-0048,https://randomuser.me/api/portraits/men/7.jpg,Alex Garcia,Active,,VP-EU,48,JF-FS,2023-09-01
+63839.77,EUR,D-OPS,EMP-0050,https://randomuser.me/api/portraits/women/18.jpg,Parker Kim,Active,,VP-EU,50,JF-MFG,2024-02-01
+59358.71,EUR,D-OPS,EMP-0051,https://randomuser.me/api/portraits/men/17.jpg,Riley Nguyen,Active,,VP-EU,51,JF-MFG,2024-06-01
+57215.92,EUR,D-OPS,EMP-0053,https://randomuser.me/api/portraits/women/94.jpg,Riley Novak,Active,,VP-EU,53,JF-MFG,2025-03-01
+63869.57,EUR,D-OPS,EMP-0054,https://randomuser.me/api/portraits/women/24.jpg,Parker Brooks,Active,,VP-EU,54,JF-MFG,2025-12-01
+54817.34,EUR,D-OPS,EMP-0055,https://randomuser.me/api/portraits/women/28.jpg,Casey Brooks,Active,,VP-EU,55,JF-MFG,2024-04-01
+69353.05,SGD,D-SALES-APAC,EMP-0056,https://randomuser.me/api/portraits/men/73.jpg,Casey Patel,Active,,VP-ASIA,56,JF-FS,2024-01-01
+69499.58,SGD,D-SALES-APAC,EMP-0057,https://randomuser.me/api/portraits/men/69.jpg,Morgan Patel,Active,,VP-ASIA,57,JF-FS,2025-10-01
+39615.18,SGD,D-OPS,EMP-0059,https://randomuser.me/api/portraits/men/89.jpg,Jordan Patel,Active,,VP-ASIA,59,JF-MFG,2024-08-01
+156593.30,USD,D-ENG,EMP-0023,https://randomuser.me/api/portraits/women/48.jpg,Sam Chen,Terminated,2025-06-01,VP-US,23,JF-SWE,2024-01-01
+108594.80,USD,D-SALES-AM,EMP-0006,https://randomuser.me/api/portraits/women/58.jpg,Reese Kim,Active,,VP-US,6,JF-FS,2024-05-01
+67982.70,USD,D-OPS,EMP-0015,https://randomuser.me/api/portraits/men/19.jpg,Sam Silva,Active,,VP-US,15,JF-MFG,2023-09-01
+82913.80,USD,D-HR,EMP-0038,https://randomuser.me/api/portraits/men/95.jpg,Jordan Kim,Active,,VP-US,38,JF-HR,2023-11-01
+60000.00,EUR,D-OPS,EMP-P1202,https://randomuser.me/api/portraits/women/84.jpg,Parker Novak,Planned,,VP-EU,74,JF-MFG,2026-12-14
