@@ -1,0 +1,101 @@
+id,employee_id,employee_name,start_date,end_date,entity_code,dept_code,job_code,currency_code,employment_status
+1,Sam Patel,Sam Patel,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+2,Chris Walsh,Chris Walsh,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+3,Dana Cole,Dana Cole,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+4,Riley Nguyen,Riley Nguyen,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+5,Taylor Brooks,Taylor Brooks,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+6,Jordan Hale,Jordan Hale,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+7,Casey Quinn,Casey Quinn,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+8,Avery Singh,Avery Singh,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+9,Morgan Ellis,Morgan Ellis,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+10,Jamie Ortiz,Jamie Ortiz,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+11,Drew Patel,Drew Patel,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+12,Skyler Amin,Skyler Amin,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+13,Reese Dalton,Reese Dalton,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+14,Harper Yin,Harper Yin,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+15,Alex Rivera,Alex Rivera,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+16,Omar Haddad,Omar Haddad,2026-02-01,,US,Professional Services,Project Manager,US Dollar,Active
+17,Blair McKenna,Blair McKenna,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+18,Sydney Cole,Sydney Cole,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+19,Parker Singh,Parker Singh,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+20,Cameron Wu,Cameron Wu,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+21,Jordan Lee,Jordan Lee,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+22,Patrice Bell,Patrice Bell,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+23,Quinn Morales,Quinn Morales,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+24,Sage Tran,Sage Tran,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+25,Mia Chen,Mia Chen,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+26,Elena Rossi,Elena Rossi,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+27,Jonas Berg,Jonas Berg,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+28,Ines Costa,Ines Costa,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+29,Lukas Meyer,Lukas Meyer,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+30,Sofia Nagy,Sofia Nagy,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+31,Pierre Dubois,Pierre Dubois,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+32,Hanna Lind,Hanna Lind,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+33,Luis Romero,Luis Romero,2026-08-01,,Europe,Professional Services,Project Manager,Euro,Planned
+34,Greta Holm,Greta Holm,2024-01-01,,Europe,Professional Services,Project Manager,Euro,Active
+35,Mateo Ruiz,Mateo Ruiz,2024-01-01,,Europe,Professional Services,Project Manager,Euro,Active
+36,Clara Vogel,Clara Vogel,2024-01-01,,Europe,Professional Services,Professional Services Sales,Euro,Active
+37,Nico Brandt,Nico Brandt,2024-01-01,,Europe,Professional Services,Professional Services Sales,Euro,Active
+38,Yuki Tanaka,Yuki Tanaka,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+39,Mei Wong,Mei Wong,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+40,Arjun Shah,Arjun Shah,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+41,Siti Rahman,Siti Rahman,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+42,Ananya Rao,Ananya Rao,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+43,Kenji Sato,Kenji Sato,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active
+44,Hiro Tanaka,Hiro Tanaka,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active
+45,Priya Menon,Priya Menon,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active
+46,Li Wei,Li Wei,2024-01-01,,Asia,Professional Services,Professional Services Sales,Singapore Dollar,Active
+47,Marcus Delgado,Marcus Delgado,2024-01-01,,US,Professional Services,Field Sales,US Dollar,Active
+48,Annika Lindqvist,Annika Lindqvist,2024-01-01,,Europe,Professional Services,Field Sales,Euro,Active
+49,Rahul Verma,Rahul Verma,2024-01-01,,Asia,Professional Services,Field Sales,Singapore Dollar,Active
+50,Nora Blake,Nora Blake,2025-06-01,2026-04-30,US,Professional Services,Consultant,US Dollar,Terminated
+51,Priya Nair,Priya Nair,2026-09-01,,US,Professional Services,Consultant,US Dollar,Planned
+52,Diego Santos,Diego Santos,2026-07-01,,US,Professional Services,Project Manager,US Dollar,Planned
+53,Quinn Harper,Quinn Harper,2024-03-01,,US,Professional Services,Consultant,US Dollar,Active
+54,Blake Okonkwo,Blake Okonkwo,2024-01-15,2025-11-30,US,Professional Services,Consultant,US Dollar,Terminated
+55,Rowan Ellis,Rowan Ellis,2024-06-01,,US,Professional Services,Consultant,US Dollar,Active
+56,Sasha Petrov,Sasha Petrov,2023-09-01,,US,Professional Services,Consultant,US Dollar,Active
+57,Devon Cho,Devon Cho,2025-02-01,,US,Professional Services,Consultant,US Dollar,Active
+58,Harper Lang,Harper Lang,2024-04-15,,US,Professional Services,Consultant,US Dollar,Active
+59,Ellis Navarro,Ellis Navarro,2024-08-01,,US,Professional Services,Consultant,US Dollar,Active
+60,Kai Brennan,Kai Brennan,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active
+61,Noel Ibrahim,Noel Ibrahim,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+62,Adrian Foss,Adrian Foss,2024-05-01,,US,Professional Services,Project Manager,US Dollar,Active
+63,Remy Calder,Remy Calder,2026-03-01,,US,Professional Services,Project Manager,US Dollar,Planned
+64,Shannon Idris,Shannon Idris,2024-02-01,,US,Professional Services,Project Manager,US Dollar,Active
+65,Logan Avery,Logan Avery,2023-11-01,2026-01-15,US,Professional Services,Project Manager,US Dollar,Terminated
+66,Hayden Brooks,Hayden Brooks,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+67,Maren Solis,Maren Solis,2024-07-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+68,Elliot Voss,Elliot Voss,2025-01-06,,US,Professional Services,Professional Services Sales,US Dollar,Active
+69,Camille Ortiz,Camille Ortiz,2024-09-01,,US,Professional Services,Professional Services Sales,US Dollar,Active
+70,Jules Nguyen,Jules Nguyen,2026-10-01,,US,Professional Services,Professional Services Sales,US Dollar,Planned
+71,Robin Hale,Robin Hale,2024-01-01,,US,Professional Services,Field Sales,US Dollar,Active
+72,Spencer Quinn,Spencer Quinn,2024-03-18,,US,Professional Services,Field Sales,US Dollar,Active
+73,Naomi Brooks,Naomi Brooks,2024-10-01,,US,Professional Services,Consultant,US Dollar,Active
+74,Chris Adeyemi,Chris Adeyemi,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active
+75,Amelie Durand,Amelie Durand,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+76,Freya Nilsen,Freya Nilsen,2024-02-12,,Europe,Professional Services,Consultant,Euro,Active
+77,Tomasz Kowalski,Tomasz Kowalski,2023-06-01,2025-09-30,Europe,Professional Services,Consultant,Euro,Terminated
+78,Chiara Bianchi,Chiara Bianchi,2024-04-01,,Europe,Professional Services,Consultant,Euro,Active
+79,Henrik Dahl,Henrik Dahl,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active
+80,Lea Moreau,Lea Moreau,2025-03-01,,Europe,Professional Services,Consultant,Euro,Active
+81,Sara Novak,Sara Novak,2024-03-01,,Europe,Professional Services,Consultant,Euro,Active
+82,Ingrid Solberg,Ingrid Solberg,2024-01-01,,Europe,Professional Services,Project Manager,Euro,Active
+83,Pablo Ferrer,Pablo Ferrer,2024-08-15,,Europe,Professional Services,Project Manager,Euro,Active
+84,Anouk Vermeer,Anouk Vermeer,2026-11-01,,Europe,Professional Services,Project Manager,Euro,Planned
+85,Luca Bianchi,Luca Bianchi,2024-01-01,,Europe,Professional Services,Project Manager,Euro,Active
+86,Elise Laurent,Elise Laurent,2024-01-01,,Europe,Professional Services,Professional Services Sales,Euro,Active
+87,Viktor Horvat,Viktor Horvat,2026-07-01,,Europe,Professional Services,Professional Services Sales,Euro,Planned
+88,Marta Silva,Marta Silva,2024-05-01,,Europe,Professional Services,Field Sales,Euro,Active
+89,Aiko Nakamura,Aiko Nakamura,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+90,Wei Zhang,Wei Zhang,2024-06-15,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+91,Farah Hassan,Farah Hassan,2023-12-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+92,Ravi Kapoor,Ravi Kapoor,2024-01-01,2026-03-31,Asia,Professional Services,Consultant,Singapore Dollar,Terminated
+93,Linh Tran,Linh Tran,2025-04-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+94,Hana Kim,Hana Kim,2024-09-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+95,Priya Shah,Priya Shah,2024-07-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active
+96,Suresh Iyer,Suresh Iyer,2027-01-15,,Asia,Professional Services,Project Manager,Singapore Dollar,Planned
+97,Mei Lin,Mei Lin,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active
+98,Jun Park,Jun Park,2026-12-01,,Asia,Professional Services,Professional Services Sales,Singapore Dollar,Planned
+99,Nadia Rahman,Nadia Rahman,2024-02-01,,Asia,Professional Services,Field Sales,Singapore Dollar,Active
+100,Omar Farouk,Omar Farouk,2025-01-01,,Asia,Professional Services,Field Sales,Singapore Dollar,Active
