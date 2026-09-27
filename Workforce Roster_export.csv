@@ -1,16 +1,43 @@
-annual_salary,currency_code,dept_code,employee_id,employee_image_url,employee_name,employment_status,end_date,entity_code,id,job_code,start_date
-90785.26,EUR,D-SALES-EMEA,EMP-0047,https://randomuser.me/api/portraits/women/38.jpg,Casey Patel,Active,,VP-EU,47,JF-FS,2024-11-01
-99219.67,EUR,D-SALES-EMEA,EMP-0048,https://randomuser.me/api/portraits/men/7.jpg,Alex Garcia,Active,,VP-EU,48,JF-FS,2023-09-01
-63839.77,EUR,D-OPS,EMP-0050,https://randomuser.me/api/portraits/women/18.jpg,Parker Kim,Active,,VP-EU,50,JF-MFG,2024-02-01
-59358.71,EUR,D-OPS,EMP-0051,https://randomuser.me/api/portraits/men/17.jpg,Riley Nguyen,Active,,VP-EU,51,JF-MFG,2024-06-01
-57215.92,EUR,D-OPS,EMP-0053,https://randomuser.me/api/portraits/women/94.jpg,Riley Novak,Active,,VP-EU,53,JF-MFG,2025-03-01
-63869.57,EUR,D-OPS,EMP-0054,https://randomuser.me/api/portraits/women/24.jpg,Parker Brooks,Active,,VP-EU,54,JF-MFG,2025-12-01
-54817.34,EUR,D-OPS,EMP-0055,https://randomuser.me/api/portraits/women/28.jpg,Casey Brooks,Active,,VP-EU,55,JF-MFG,2024-04-01
-69353.05,SGD,D-SALES-APAC,EMP-0056,https://randomuser.me/api/portraits/men/73.jpg,Casey Patel,Active,,VP-ASIA,56,JF-FS,2024-01-01
-69499.58,SGD,D-SALES-APAC,EMP-0057,https://randomuser.me/api/portraits/men/69.jpg,Morgan Patel,Active,,VP-ASIA,57,JF-FS,2025-10-01
-39615.18,SGD,D-OPS,EMP-0059,https://randomuser.me/api/portraits/men/89.jpg,Jordan Patel,Active,,VP-ASIA,59,JF-MFG,2024-08-01
-156593.30,USD,D-ENG,EMP-0023,https://randomuser.me/api/portraits/women/48.jpg,Sam Chen,Terminated,2025-06-01,VP-US,23,JF-SWE,2024-01-01
-108594.80,USD,D-SALES-AM,EMP-0006,https://randomuser.me/api/portraits/women/58.jpg,Reese Kim,Active,,VP-US,6,JF-FS,2024-05-01
-67982.70,USD,D-OPS,EMP-0015,https://randomuser.me/api/portraits/men/19.jpg,Sam Silva,Active,,VP-US,15,JF-MFG,2023-09-01
-82913.80,USD,D-HR,EMP-0038,https://randomuser.me/api/portraits/men/95.jpg,Jordan Kim,Active,,VP-US,38,JF-HR,2023-11-01
-60000.00,EUR,D-OPS,EMP-P1202,https://randomuser.me/api/portraits/women/84.jpg,Parker Novak,Planned,,VP-EU,74,JF-MFG,2026-12-14
+id,employee_id,employee_name,start_date,end_date,entity_code,dept_code,job_code,currency_code,employment_status,job_title,role_notes,monthly_salary,bill_rate,billable_hours,expected_fees
+1,Sam Patel,Sam Patel,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+2,Chris Walsh,CHRIS WALSH,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+3,Dana Cole,Dana Cole,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+4,Riley Nguyen,Riley Nguyen,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+5,Taylor Brooks,Taylor Brooks,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+6,Jordan Hale,Jordan Hale,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+7,Casey Quinn,Casey Quinn,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+8,Avery Singh,Avery Singh,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+9,Morgan Ellis,Morgan Ellis,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+10,Jamie Ortiz,Jamie Ortiz,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+11,Drew Patel,Drew Patel,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+12,Skyler Amin,Skyler Amin,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+13,Reese Dalton,Reese Dalton,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+14,Harper Yin,Harper Yin,2024-01-01,,US,Professional Services,Consultant,US Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+15,Alex Rivera,Alex Rivera,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+16,Omar Haddad,Omar Haddad,2026-02-01,,US,Professional Services,Project Manager,US Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+17,Blair McKenna,Blair McKenna,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+18,Sydney Cole,Sydney Cole,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+19,Parker Singh,Parker Singh,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+20,Cameron Wu,Cameron Wu,2024-01-01,,US,Professional Services,Project Manager,US Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+21,Jordan Lee,Jordan Lee,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
+22,Patrice Bell,Patrice Bell,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
+23,Quinn Morales,Quinn Morales,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
+24,Sage Tran,Sage Tran,2024-01-01,,US,Professional Services,Professional Services Sales,US Dollar,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
+25,Mia Chen,Mia Chen,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+26,Elena Rossi,Elena Rossi,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+27,Jonas Berg,Jonas Berg,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+28,Ines Costa,Ines Costa,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+29,Lukas Meyer,Lukas Meyer,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+30,Sofia Nagy,Sofia Nagy,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+31,Pierre Dubois,Pierre Dubois,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+32,Hanna Lind,Hanna Lind,2024-01-01,,Europe,Professional Services,Consultant,Euro,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+33,Luis Romero,Luis Romero,2026-08-01,,Europe,Professional Services,Project Manager,Euro,Planned,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+34,Greta Holm,Greta Holm,2024-01-01,,Europe,Professional Services,Project Manager,Euro,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+35,Mateo Ruiz,Mateo Ruiz,2024-01-01,,Europe,Professional Services,Project Manager,Euro,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+36,Clara Vogel,Clara Vogel,2024-01-01,,Europe,Professional Services,Professional Services Sales,Euro,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
+37,Nico Brandt,Nico Brandt,2024-01-01,,Europe,Professional Services,Professional Services Sales,Euro,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
+47,Marcus Delgado,Marcus Delgado,2024-01-01,,US,Professional Services,Field Sales,US Dollar,Active,Field Account Executive,Runs field pipeline and onsites with enterprise buyers,8800,0,0,0
+48,Annika Lindqvist,Annika Lindqvist,2024-01-01,,Europe,Professional Services,Field Sales,Euro,Active,Field Account Executive,Runs field pipeline and onsites with enterprise buyers,8800,0,0,0
+50,Nora Blake,Nora Blake,2025-06-01,2026-04-30,US,Professional Services,Consultant,US Dollar,Terminated,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+51,Priya Nair,Priya Nair,2026-09-01,,US,Professional Services,Consultant,US Dollar,Planned,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+52,Diego Santos,Diego Santos,2026-07-01,,US,Professional Services,Project Manager,US Dollar,Planned,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
