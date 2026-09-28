@@ -41,3 +41,10 @@ id,employee_id,employee_name,start_date,end_date,entity_code,dept_code,job_code,
 50,Nora Blake,Nora Blake,2025-06-01,2026-04-30,US,Professional Services,Consultant,US Dollar,Terminated,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
 51,Priya Nair,Priya Nair,2026-09-01,,US,Professional Services,Consultant,US Dollar,Planned,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
 52,Diego Santos,Diego Santos,2026-07-01,,US,Professional Services,Project Manager,US Dollar,Planned,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+38,Yuki Tanaka,  Yuki Tanaka  ,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+39,Mei Wong,Mei Wong,2024-01-01,,Asia,Professional Services,Consultant,SGD,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+40,Arjun Shah,Arjun Shah,2024-01-01,,Asia,Prof. Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+41,Siti Rahman,Siti Rahman,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+42,Ananya Rao,Ananya Rao,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
+43,Kenji Sato,Kenji Sato,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+44,Hiro Tanaka,Hiro Tanaka,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
