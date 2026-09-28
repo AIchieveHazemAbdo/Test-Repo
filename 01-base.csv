@@ -48,3 +48,4 @@ id,employee_id,employee_name,start_date,end_date,entity_code,dept_code,job_code,
 42,Ananya Rao,Ananya Rao,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
 43,Kenji Sato,Kenji Sato,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
 44,Hiro Tanaka,Hiro Tanaka,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
+45,Priya Menon,Priya Menon,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
