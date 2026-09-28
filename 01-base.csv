@@ -41,17 +41,3 @@ id,employee_id,employee_name,start_date,end_date,entity_code,dept_code,job_code,
 50,Nora Blake,Nora Blake,2025-06-01,2026-04-30,US,Professional Services,Consultant,US Dollar,Terminated,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
 51,Priya Nair,Priya Nair,2026-09-01,,US,Professional Services,Consultant,US Dollar,Planned,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
 52,Diego Santos,Diego Santos,2026-07-01,,US,Professional Services,Project Manager,US Dollar,Planned,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
-38,Yuki Tanaka,  Yuki Tanaka  ,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
-39,Mei Wong,Mei Wong,2024-01-01,,Asia,Professional Services,Consultant,SGD,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
-40,Arjun Shah,Arjun Shah,2024-01-01,,Asia,Prof. Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
-41,Siti Rahman,Siti Rahman,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
-42,Ananya Rao,Ananya Rao,2024-01-01,,Asia,Professional Services,Consultant,Singapore Dollar,Active,Implementation Consultant,Leads customer implementations and configuration workshops,8500,185,140,25900
-43,Kenji Sato,Kenji Sato,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
-44,Hiro Tanaka,Hiro Tanaka,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
-45,Priya Menon,Priya Menon,2024-01-01,,Asia,Professional Services,Project Manager,Singapore Dollar,Active,Delivery Project Manager,"Owns project plans, status reporting, and go-live readiness",9800,210,120,25200
-46,Li Wei,Li Wei,2024-01-01,,Asia,Professional Services,Professional Services Sales,Singapore Dollar,Active,Professional Services Sales Executive,Sells PS engagements and scopes statements of work,9200,0,0,0
-49,Rahul Verma,Rahul Verma,2024-01-01,,Asia,Professional Services,Field Sales,Singapore Dollar,Active,Field Account Executive,Runs field pipeline and onsites with enterprise buyers,8800,0,0,0
-54,Nina Okonkwo,Nina Okonkwo,2026-10-01,,US,Professional Services,Consultant,US Dollar,Planned,Senior Implementation Consultant,Owns complex multi-workstream implementations,10500,225,130,29250
-55,Tomás Ribeiro,Tomás Ribeiro,2026-10-15,,Europe,Professional Services,Project Manager,Euro,Planned,Engagement Manager,Coordinates EMEA delivery pods and partner teams,10200,220,110,24200
-56,Aisha Rahman,Aisha Rahman,2026-11-01,,Asia,Professional Services,Solutions Architect,Singapore Dollar,Planned,Solutions Architect,Designs technical architecture for PS engagements,11000,240,100,24000
-57,Ben Carter,  Ben Carter  ,10/01/2026,N/A,USA,Prof. Services,Professional Services Sales,USD,active,PS Sales Manager,Manages PS deal desk and pricing approvals,"$10,500",0,0,0
