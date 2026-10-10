@@ -99,3 +99,103 @@ n/a,Meridian Advisory US,Human Resources,6700 Legal & Professional Fees,Hollis &
 2026-07-09,Meridian Advisory Singapore,Human Resources,6400 Travel & Entertainment,ComfortDelGro,Taxi to client site,SGD,85.67
 2026-07-09,Meridian Advisory Singapore,Marketing,6410 Airfare,Singapore Airlines,Flight SIN-SYD,SGD,1577.43
 2026-07-10,Meridian Advisory Singapore,Tax Advisory,6410 Airfare,Emirates,Flight SIN-NRT,SGD,7990.84
+txn_date,entity,department,account,vendor,description,currency,amount
+2024-01-01,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240005 Strategy engagement,USD,-55903.66
+2024-01-01,Meridian Advisory US,Consulting,4000 Professional Fees,Orion Aerospace,INV-US240010 Transformation programme,USD,-101046.88
+2024-01-01,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Castlegate Capital,INV-US240004 Statutory audit fees,USD,-26516.79
+2024-01-01,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Starbucks,Coffee - client meeting,USD,81.09
+2024-01-01,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Slack Technologies,Slack Technologies subscription Jan 2024,USD,1547.74
+2024-01-01,Meridian Advisory US,Operations,6200 Rent & Occupancy,WeWork,Office rent Jan 2024,USD,96000.00
+2024-01-02,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240006 Cost optimisation review,USD,-126247.77
+2024-01-02,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Orion Aerospace,INV-US240013 Statutory audit fees,USD,-53768.46
+2024-01-02,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Summit Automotive,INV-US240002 Statutory audit fees,USD,-33198.73
+2024-01-02,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Uber,Taxi - client meeting,USD,73.03
+2024-01-02,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Starbucks,Client lunch,USD,33.33
+2024-01-02,Meridian Advisory US,Tax Advisory,6500 Training & Development,AICPA,CPE course,USD,1556.31
+2024-01-02,Meridian Advisory US,Human Resources,7000 Recruitment Fees,Robert Half,Placement fee - Engagement Manager,USD,17868.52
+2024-01-02,Meridian Advisory US,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,USD,1694.13
+2024-01-02,Meridian Advisory US,Operations,6400 Travel & Entertainment,Lyft,Taxi to client site,USD,21.64
+2024-01-03,Meridian Advisory US,Finance,6420 Lodging,Marriott,Hotel 2 nights - Dallas,USD,1149.08
+2024-01-04,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,37.59
+2024-01-04,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Starbucks,Client lunch,USD,42.96
+2024-01-04,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Ride to airport,USD,77.31
+2024-01-05,Meridian Advisory US,Human Resources,6800 Office Supplies,Staples,Pantry supplies,USD,61.52
+2024-01-05,Meridian Advisory US,Human Resources ,7000 Recruitment Fees,Robert Half,Placement fee - Data Analyst,USD,10307.42
+2024-01-05,Meridian Advisory US,Information Technology,6400 Travel & Entertainment,Lyft,Taxi to client site,USD,60.66
+2024-01-05,Meridian Advisory US,Marketing,6500 Training & Development,LinkedIn Learning,Online course licence,USD,575.09
+2024-01-08,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Sweetgreen,Team dinner,USD,10.65
+2024-01-08,Meridian Advisory US,TAX ADVISORY,6400 Travel & Entertainment,Sweetgreen,Client lunch,USD,79.78
+2024-01-08,Meridian Advisory US,Tax Advisory,6420 Lodging,Hyatt,Hotel 3 nights - London,USD,1732.32
+2024-01-08,Meridian Advisory US,Tax Advisory,6500 Training & Development,LinkedIn Learning,CPE course,USD,1204.05
+2024-01-08,Meridian Advisory US,operations,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,82.42
+2024-01-08,Meridian Advisory US,Operations ,6800 Office Supplies,Staples,Stationery order,USD,730.33
+2024-01-09,Meridian Advisory US,Consulting,4000 Professional Fees,Sterling Biotech,INV-US240016 Cost optimisation review,USD,-18898.96
+2024-01-09,Meridian Advisory US,Consulting,4000 Professional Fees,Summit Automotive,INV-US240015 Operating model review,USD,-24981.41
+2024-01-09,Meridian Advisory US,Consulting,6420 Lodging,Hyatt,Hotel 2 nights - London,USD,376.98
+2024-01-09,Meridian Advisory US,Audit & Assurance,6420 Lodging,Marriott,Hotel 2 nights - Atlanta,USD,1305.50
+2024-01-09,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,67.91
+2024-01-09,Meridian Advisory US,Information Technology,6400 Travel and Entertainment,Uber,Taxi - client meeting,USD,24.22
+2024-01-11,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240003 Transformation programme,USD,-21494.85
+2024-01-11,Meridian Advisory US,Consulting,6500 Training & Development,Coursera,Conference registration,USD,1404.13
+2024-01-11,Meridian Advisory US,Tax Advisory,6500 Training & Development,AICPA,Online course licence,USD,1580.08
+2024-01-11,Meridian Advisory US,Finance,6700 Legal & Professional Fees,Hollis & Grant LLP,Entity compliance filings - matter 2634,USD,2286.53
+2024-01-11,Meridian Advisory US,Information Technology,6300 Software Subscriptions,DocuSign,DocuSign subscription Jan 2024,USD,1212.77
+2024-01-12,Meridian Advisory US,Consulting,4000 Professional Fees,Summit Automotive,INV-US240012 Strategy engagement,USD,-56403.31
+2024-01-12,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Ride to airport,USD,57.45
+2024-01-12,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Uber,Taxi to client site,USD,49.11
+2024-01-12,Meridian Advisory US,Information Technology,6310 Cloud Hosting,Google Cloud,Google Cloud usage Jan 2024,USD,2740.26
+2024-01-15,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Sweetgreen,Coffee - client meeting,USD,15.28
+2024-01-15,Meridian Advisory US,Tax,4000 Professional Fees,Castlegate Capital,INV-US240007 Indirect tax advisory,USD,-20358.98
+2024-01-15,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,12.12
+2024-01-15,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Sweetgreen,Coffee - client meeting,USD,235.48
+2024-01-15,Meridian Advisory US,Finance,7100 Insurance,Chubb,Professional indemnity premium Jan 2024,USD,14200.00
+2024-01-15,Meridian Advisory US,Human Resources,6400 Travel & Ent.,Starbucks,Team dinner,USD,576.91
+2024-01-15,Meridian Advisory US,Marketing,6400 Travel & Entertainment,Uber,Taxi - client meeting,USD,91.09
+2024-01-16,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240008 Transformation programme,USD,-27961.15
+2024-01-16,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,48.61
+2024-01-16,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Ride to airport,USD,65.94
+2024-01-16,Meridian Advisory US,Information Technology,6900 Telecommunications,AT&T,Mobile and data plan Jan 2024,USD,638.46
+2024-01-16,Meridian Advisory US,Operations,6400 Travel & Entertainment ,Uber,Taxi - client meeting,USD,87.63
+2024-01-16,Meridian Advisory US,Operations,6800 Office Supplies,Amazon Business,Stationery order,USD,438.64
+2024-01-17,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,UBER,Late ride home - project deadline,USD,78.24
+2024-01-17,Meridian Advisory US,Finance,7200 Bank Charges,JPMorgan Chase,FX conversion charges,USD,437.20
+2024-01-18,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,88.90
+2024-01-18,Meridian Advisory US,Human Resources,6400 Travel & Entertainment,Starbucks,Team dinner,USD,635.15
+2024-01-18,Meridian Advisory US,Information Technology,6800 Office Supplies,Amazon Business,Pantry supplies,USD,22.34
+2024-01-18,Meridian Advisory US,Operations,6800 Office Supplies,Staples,Stationery order,USD,517.76
+2024-01-19,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Late ride home - project deadline,USD,51.50
+2024-01-19,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Ride to airport,USD,91.52
+2024-01-19,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Microsoft Corp.,Microsoft subscription Jan 2024,USD,922.00
+2024-01-19,Meridian Advisory US,Information Technology,6310 Cloud Hosting,Google Cloud,Google Cloud usage Jan 2024,USD,3149.98
+2024-01-19,Meridian Advisory US,Information Technology,6900 Telecommunications,Verizon,Mobile and data plan Jan 2024,USD,2424.83
+2024-01-19,Meridian Advisory US,Marketing,6600 Marketing & Events,Eventbrite,Event tickets - industry breakfast,USD,15929.60
+2024-01-22,Meridian Advisory US,Consulting,4000 Professional Fees,Northwind Logistics,INV-US240014 Cost optimisation review,USD,-14462.25
+2024-01-22,Meridian Advisory US,Audit & Assurance,4100 Reimbursable Expenses Billed,Castlegate Capital,Rebill of engagement travel expenses,USD,-782.58
+2024-01-22,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Starbucks,Client lunch,USD,29.57
+2024-01-22,Meridian Advisory US,Audit & Assurance,6410 Airfare,British Airways,Flight JFK-BOS,USD,1261.58
+2024-01-22,Meridian Advisory US,Finance,6400 Travel & Entertainment,Uber,Taxi to client site,USD,58.47
+01/23/2024,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240011 Transformation programme,USD,-12146.68
+2024-01-23,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Brightwater Health,INV-US240001 Interim audit fieldwork,USD,-123893.89
+2024-01-23,Meridian Advisory US,Audit & Assurance,6300 Software Subscriptions,Workday,Workday subscription Jan 2024,USD,7682.11
+2024-01-23,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Starbucks,Client lunch,USD,525.86
+2024-01-23,Meridian Advisory US,Information Technology,6300 Software Subscriptions,DocuSign,DocuSign subscription Jan 2024,USD,559.00
+2024-01-24,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,39.74
+2024-01-24,Meridian Advisory US,Operations,6400 Travel & Entertainment,Uber,Taxi to client site,USD,13.33
+2024-01-25,Meridian Advisory US,Human Resources,6700 Legal & Professional Fees,Hollis & Grant LLP,Contract review - matter 9665,USD,6128.29
+2024-01-25,Meridian Advisory US,Human Resources,7000 Recruitment Fees,Robert Half,Placement fee - Data Analyst,USD,28247.62
+2024-01-26,Meridian Advisory US,Consulting,4100 Reimbursable Expenses Billed,Brightwater Health,Rebill of engagement travel expenses,USD,-5160.72
+2024-01-26,Meridian Advisory US,Consulting,6420 Lodging,Hilton,Hotel 5 nights - Atlanta,USD,3163.51
+2024-01-26,Meridian Advisory US,Audit & Assurance,6400 Travel & Ent.,Starbucks,Team dinner,USD,358.52
+2024-01-26,Meridian Advisory US,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,USD,727.15
+2024-01-29,Meridian Advisory US,Consulting,4000 Professional Fees,Summit Automotive,INV-US240009 Strategy engagement,USD,-24164.58
+2024-01-29,Meridian Advisory US,Consulting,6420 Lodging,Marriott,Hotel 5 nights - San Francisco,USD,2621.47
+2024-01-29,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Taxi to client site,USD,64.85
+2024-01-29,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Ride to airport,USD,77.54
+2024-01-30,Meridian Advisory US ,Consulting,6410 Airfare,Delta Air Lines,Flight JFK-DFW,USD,393.05
+2024-01-30,Meridian Advisory US,Human Resources,7000 Recruitment Fees,Hays,Placement fee - Data Analyst,USD,32499.17
+2024-01-30,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Microsoft,Microsoft licences - 113 seats,USD,1736.38
+2024-01-31,Meridian Advisory US,Consulting,6000 Salaries & Wages,ADP,Payroll Jan 2024 - Consulting,USD,409526.29
+2024-01-31,Meridian Advisory US,Consulting,6050 Employee Benefits,Blue Cross Blue Shield,Employee benefits Jan 2024,USD,63512.18
+2024-01-31,Meridian Advisory US,Consulting,6420 Lodging/Hotels,Hilton,Hotel 4 nights - Chicago,USD,2345.33
+2024-01-31,Meridian Advisory US,Audit & Assurance,6000 Salaries & Wages,ADP,Payroll Jan 2024 - Audit & Assurance,USD,327489.43
+2024-01-31,meridian advisory us,Audit & Assurance,6050 Employee Benefits,Blue Cross Blue Shield,Employee benefits Jan 2024,USD,46629.42
