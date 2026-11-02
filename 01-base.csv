@@ -1,201 +1,121 @@
-txn_date,entity,department,account,vendor,description,currency,amount
-2026-07-01,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US260539 Strategy engagement,USD,-26035.72
-2026-07-01,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Microsoft,Microsoft licences - 77 seats,USD,3385.23
-2026-07-01,Meridian Advisory US,Operations,6200 Rent & Occupancy,WeWork,Office rent Jul 2026,USD,101846.40
-2026-07-02,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,63.68
-2026-07-02,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Late ride home - project deadline,USD,91.26
-2026-07-02,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Uber,Ride to airport,USD,38.69
-2026-07-02,Meridian Advisory US,Tax Advisory,6420 Lodging,Hilton,Hotel 4 nights - San Francisco,USD,2320.19
-2026-07-02,Meridian Advisory US,Finance,6400 Travel & Entertainment,UBER,Taxi - client meeting,USD,71.26
-2026-07-02,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Zoom Video Communications,Zoom Video Communications licences - 29 seats,USD,607.35
-2026-07-02,Meridian Advisory US,Information Technology,6310 Cloud Hosting,Google Cloud,Google Cloud usage Jul 2026,USD,4605.73
-2026-07-02,Meridian Advisory US,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,USD,706.02
-2026-07-02,Meridian Advisory US,Operations,6800 Office Supplies,Office Depot,Stationery order,USD,240.75
-2026-07-02,Meridian Advisory US,Operations,6800 Office Supplies,Staples,Desk accessories,USD,593.26
-2026-07-03,Meridian Advisory US,Consulting,4000 Professional Fees,Castlegate Capital,INV-US260537 Cost optimisation review,USD,-110890.79
-2026-07-03,Meridian Advisory US,Tax Advisory,6800 Office Supplies,Staples,Whiteboard supplies,USD,143.67
-2026-07-03,Meridian Advisory US,Finance,6700 Legal & Professional Fees,Hollis & Grant LLP,Entity compliance filings - matter 9295,USD,3993.63
-2026-07-03,Meridian Advisory US,Information Technology,6900 Telecommunications,Verizon,Mobile and data plan Jul 2026,USD,612.32
-2026-07-06,Meridian Advisory US,Consulting,4000 Professional Fees,Castlegate Capital,INV-US260538 Transformation programme,USD,-27958.61
-2026-07-06,Meridian Advisory USA,Consulting,6400 Travel & Entertainment,Starbucks,Working lunch - engagement team,USD,46.18
-2026-07-06,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Sweetgreen,Client lunch,USD,581.79
-2026-07-06,Meridian Advisory US,Tax Advisory,6300 Software Subscriptions,Atlassian,Atlassian subscription Jul 2026,USD,2122.81
-2026-07-06,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,17.31
-2026-07-06,Meridian Advisory US,Finance,6300 Software Subscriptions,DocuSign,DocuSign licences - 75 seats,USD,576.00
-2026-07-06,Meridian Advisory US,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,USD,6280.70
-2026-07-07,Meridian Advisory US,Tax Advisory,4000 Professional Fees,Sterling Biotech,INV-US260540 Indirect tax advisory,USD,-14200.04
-2026-07-07,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Uber,Taxi - client meeting,USD,16.77
-n/a,Meridian Advisory US,Human Resources,6700 Legal & Professional Fees,Hollis & Grant LLP,Lease negotiation advice - matter 7584,USD,41991.81
-2026-07-07,Meridian Advisory US,Marketing,6500 Training & Development,AICPA,Conference registration,USD,1088.67
-2026-07-07,Meridian Advisory US,Marketing,6600 Marketing & Events,Cvent,Event platform - client roundtable,USD,887.73
-2026-07-08,Meridian Advisory US,Consulting,4000 Professional Fees,Orion Aerospace,INV-US260536 Cost optimisation review,USD,-31062.89
-07/08/2026,Meridian Advisory US,Consulting,6410 Airfare,United Airlines,Flight JFK-LHR,USD,1017.39
-2026-07-08,Meridian Advisory US,Finance,7200 Bank Charges,JPMorgan Chase,Wire transfer fees,USD,303.01
-2026-07-08,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Adobe,Adobe annual renewal,USD,1508.00
-2026-07-08,Meridian Advisory US,Information Technology,6300 Software Subscriptions,DocuSign,DocuSign subscription Jul 2026,USD,1381.98
-2026-07-08,Meridian Advisory US,Operations,6500 Training & Development,AICPA,CPE course,USD,"1,193.41"
-2026-07-09,Meridian Advisory US,Operations,6800 Office Supplies,Amazon Business,Whiteboard supplies,USD,51.61
-2026-07-09,Meridian Advisory US,Operations,6800 Office Supplies,Staples,Desk accessories,USD,55.13
-2026-07-10,Meridian Advisory US,consulting,6400 Travel & Entertainment,Uber,Ride to airport,USD,null
-2026-07-10,Meridian Advisory US,Tax Advisory,6400 T&E,Lyft,Taxi - client meeting,USD,43.92
-2026-07-01,Meridian Advisory UK,Consulting,4000 Professional Fees,Atlas Retail Group,INV-UK260335 Cost optimisation review,GBP,"(15,997.01)"
-2026-07-01,Meridian Advisory UK,Consulting,6400 Travel & Entertainment,Pret A Manger,Team dinner,GBP,92.28
-01-Jul-2026,Meridian Advisory UK,Marketing,6600 Marketing & Events,Eventbrite,Event tickets - industry breakfast,GBP,5318.56
-2026-07-01,Meridian Advisory UK,Operations,6200 Rent & Occupancy,Regus,Office rent Jul 2026,GBP,82134.88
-2026-07-03,Meridian Advisory UK,Tax Advisory,6410 Airfare,Virgin Atlantic,Flight LHR-CDG,GBP,5222.42
-03/07/2026,Meridian Advisory UK,Finance,6700 Legal & Professional Fees,Ashworth Pryce LLP,Lease negotiation advice - matter 4881,GBP,22477.83
-2026-07-03,Meridian Advisory UK,Operations,6800 Office Supplies,Viking,Pantry supplies,GBP,88.82
-2026-07-06,Meridian Advisory UK,Tax Advisory,6420 Lodging,Hyatt,Hotel 4 nights - New York,GBP,2022.07
-2026-07-06,Meridian Advisory UK,Tax Advisory,6420 Lodging,Hyatt,Hotel 4 nights - New York,GBP,2426.48
-2026-07-07,Meridian Advisory UK,Marketing,6800 Office Supplies,AMZN Mktp,Printer paper and toner,GBP,353.13
-2026-07-08,Meridian Advisory UK,Audit & Assurance,4000 Professional Fees,Pioneer Mills,INV-UK260336 Interim audit fieldwork,GBP,-55467.35
-2026-07-08,Meridian Advisory UK,Tax Advisory,4100 Reimbursable Expenses Billed,Pioneer Mills,Rebill of engagement travel expenses,GBP,-3720.03
-2026-07-08,Meridian Advisory UK,IT,6300 Software Subscriptions,DocuSign,DocuSign subscription Jul 2026,GBP,194.58
-2026-07-09,Meridian Advisory UK,Consulting,6420 Lodging,Hilton,Hotel 3 nights - Frankfurt,GBP,748.27
-2026-07-09,Meridian Advisory UK,Tax Advisory,4000 Professional Fees,Ridgeway Hotels,INV-UK260337 Indirect tax advisory,GBP,-17457.24
-2026-07-09,Meridian Advisory UK,Finance,7200 Bank Charges,Barclays,Wire transfer fees,GBP,3018.10
-2026-07-09,Meridian Advisory UK,Information Technology,6300 Software Subscriptions,Zoom Video Communications,Zoom Video Communications licences - 5 seats,GBP,799.00
-2026-07-10,Meridian Advisory UK,Consulting,6420 Lodging,Hilton,Hotel 5 nights - New York,GBP,1397.40
-2026-07-10,Meridian Advisory UK,Consulting,6420 Lodging,Marriott International,Hotel 4 nights - Manchester,GBP,1319.41
-2026-07-10,Meridian Advisory UK,Tax Advisory,4100 Reimbursable Expenses Billed,Granite Insurance,Rebill of engagement travel expenses,GBP,-1274.71
-2026-07-10,Meridian Advisory UK,Tax Advisory,6420 Lodging,Marriott,Hotel 3 nights - New York,GBP,1082.83
-2026-07-10,Meridian Advisory UK,Finance,6700 Legal & Professional Fees,Ashworth Pryce LLP,Lease negotiation advice - matter 1454,GBP,32946.92
-2026-07-10,Meridian Advisory UK,Operations,6800 Office Supplies,Amazon Business,Printer paper and toner,GBP,297.25
-2026-07-10,Meridian Advisory UK,Operations,6800 Office Supplies,Viking,Printer paper and toner,GBP,132.91
-2026-07-01,Meridian Advisory United Arab Emirates,Audit & Assurance,6300 Software Subscriptions,Workday,Workday subscription Jul 2026,AED,19939.00
-2026-07-01,Meridian Advisory UAE,Audit & Assurance,6400 Travel & Entertainment,Tim Hortons,Client lunch,AED,81.72
-2026-07-01,Meridian Advisory UAE,Marketing,6600 Marketing & Events,Eventbrite,Event tickets - industry breakfast,AED,29745.75
-2026-07-01,Meridian Advisory UAE,Operations,6200 Rent & Occupancy,Emaar Properties,Office rent Jul 2026,AED,202462.16
-2026-07-01,Meridian Advisory UAE,Operations,6800 Office Supplies,Carrefour,Pantry supplies,AED,93.50
-2026-07-02,Meridian Advisory UAE,Consulting,6400 Travel & Entertainment,Zuma Dubai,Team dinner,AED,1013.12
-2026-07-03,Meridian Advisory UAE,Tax Advisory,6400 Travel & Entertainment,Uber,Taxi to client site,AED,196.71
-2026-07-03,Meridian Advisory UAE,Finance,6700 Legal & Professional Fees,Al Tamimi & Company,Contract review - matter 4621,AED,33137.38
-2026-07-06,Meridian Advisory UAE,Tax Advisory,6400 Travel & Entertainment,Tim Hortons,Coffee - client meeting,AED,1417.84
-2026-07-06,Meridian Advisory UAE,Tax Advisory,6410 Airfare,Etihad Airways,Flight DXB-BOM,AED,2837.48
-2026-07-06,Meridian Advisory UAE,Information Technology,6900 Telecommunications,Etisalat,Mobile and data plan Jul 2026,AED,868.37
-2026-07-06,Meridian Advisory UAE,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,AED,1949.42
-2026-07-07,Meridian Advisory UAE,Consulting,4000 Professional Fees,Vantage Telecom,INV-AE260250 Operating model review,AED,-47568.44
-2026-07-07,Meridian Advisory UAE,Audit & Assurance,6400 Travel & Entertainment,Careem,Ride to airport,AED,326.26
-2026-07-08,Meridian Advisory UAE,Audit & Assurance,6420 Lodging,Marriott,Hotel 3 nights - Riyadh,AED,3167.16
-2026-07-08,Meridian Advisory UAE,Tax Advisory,4100 Reimbursable Expenses Billed,Halcyon Energy,Rebill of engagement travel expenses,AED,-5603.87
-2026-07-08,Meridian Advisory UAE,Human Resources ,6700 Legal & Professional Fees,Al Tamimi & Company,Contract review - matter 8348,AED,115660.42
-2026-07-09,Meridian Advisory UAE,Audit & Assurance,4000 Professional Fees,Halcyon Energy,INV-AE260251 Statutory audit fees,AED,-427992.15
-09/07/2026,Meridian Advisory UAE,Finance,7200 Bank Charges,Emirates NBD,Account maintenance fee,AED,214.97
-2026-07-10,Meridian Advisory UAE,Consulting,6400 Travel & Entertainment,Uber,Taxi - client meeting,AED,262.62
-2026-07-09,Meridian Advisory UAE,Audit & Assurance,4000 Professional Fees,Halcyon Energy,INV-AE260251 Statutory audit fees,AED,-427992.15
-2026-07-10,Meridian Advisory UAE,Finance,6400 Travel & Entertainment,Careem,Taxi to client site,AED,217.83
-2026-07-01,Meridian Advisory Singapore,Tax Advisory,6400 Travel & Entertainment,ComfortDelGro,Taxi - client meeting,SGD,S$60.13
-2026-07-01,Meridian Advisory Singapore,Information Technology,6300 Software Subscriptions,Microsoft Corporation,Microsoft subscription Jul 2026,SGD,631.09
-2026-07-01,Meridian Advisory Singapore,Operations,6200 Rent & Occupancy,CapitaLand ,Office rent Jul 2026,SGD,86717.97
-2026-07-03,Meridian Advisory Singapore,Consulting,4000 Prof Fees,Cobalt Mining Co,INV-SG260174 Cost optimisation review,SGD,-104997.58
-2026-07-03,Meridian Advisory Singapore,Tax Advisory,6400 Travel & Entertainment,ComfortDelGro,Late ride home - project deadline,SGD,93.81
-2026-07-03,Meridian Advisory Singapore,HR,6700 Legal & Professional Fees,Rajah & Tann,Lease negotiation advice - matter 9248,SGD,2901.68
-2026-07-07,Meridian Advisory Singapore,Consulting,4000 Professional Fees,Tidewater Utilities,INV-SG260175 Transformation programme,SGD,-115473.82
-2026-07-08,Meridian Advisory Singapore,Audit & Assurance,6410 Airfare,Emirates,Flight SIN-SYD,SGD,774.58
-2026-07-08,Meridian Advisory Singapore,Marketing,6600 Marketing & Events,Eventbrite,Event tickets - industry breakfast,SGD,1683.53
-2026-07-08,Meridian Advisory Singapore,Operations,6800 Office Supplies,Amazon Business,Desk accessories,SGD,33.95
-2026-07-09,Meridian Advisory Singapore,Tax Advisory,6300 Software Subscriptions,Atlassian,Atlassian licences - 91 seats,SGD,225.19
-2026-07-09,Meridian Advisory Singapore,Finance,7200 Bank Charges,DBS Bank,FX conversion charges,SGD,306.33
-2026-07-09,Meridian Advisory Singapore,Human Resources,6400 Travel & Entertainment,ComfortDelGro,Taxi to client site,SGD,85.67
-2026-07-09,Meridian Advisory Singapore,Marketing,6410 Airfare,Singapore Airlines,Flight SIN-SYD,SGD,1577.43
-2026-07-10,Meridian Advisory Singapore,Tax Advisory,6410 Airfare,Emirates,Flight SIN-NRT,SGD,7990.84
-txn_date,entity,department,account,vendor,description,currency,amount
-2024-01-01,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240005 Strategy engagement,USD,-55903.66
-2024-01-01,Meridian Advisory US,Consulting,4000 Professional Fees,Orion Aerospace,INV-US240010 Transformation programme,USD,-101046.88
-2024-01-01,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Castlegate Capital,INV-US240004 Statutory audit fees,USD,-26516.79
-2024-01-01,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Starbucks,Coffee - client meeting,USD,81.09
-2024-01-01,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Slack Technologies,Slack Technologies subscription Jan 2024,USD,1547.74
-2024-01-01,Meridian Advisory US,Operations,6200 Rent & Occupancy,WeWork,Office rent Jan 2024,USD,96000.00
-2024-01-02,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240006 Cost optimisation review,USD,-126247.77
-2024-01-02,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Orion Aerospace,INV-US240013 Statutory audit fees,USD,-53768.46
-2024-01-02,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Summit Automotive,INV-US240002 Statutory audit fees,USD,-33198.73
-2024-01-02,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Uber,Taxi - client meeting,USD,73.03
-2024-01-02,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Starbucks,Client lunch,USD,33.33
-2024-01-02,Meridian Advisory US,Tax Advisory,6500 Training & Development,AICPA,CPE course,USD,1556.31
-2024-01-02,Meridian Advisory US,Human Resources,7000 Recruitment Fees,Robert Half,Placement fee - Engagement Manager,USD,17868.52
-2024-01-02,Meridian Advisory US,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,USD,1694.13
-2024-01-02,Meridian Advisory US,Operations,6400 Travel & Entertainment,Lyft,Taxi to client site,USD,21.64
-2024-01-03,Meridian Advisory US,Finance,6420 Lodging,Marriott,Hotel 2 nights - Dallas,USD,1149.08
-2024-01-04,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,37.59
-2024-01-04,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Starbucks,Client lunch,USD,42.96
-2024-01-04,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Ride to airport,USD,77.31
-2024-01-05,Meridian Advisory US,Human Resources,6800 Office Supplies,Staples,Pantry supplies,USD,61.52
-2024-01-05,Meridian Advisory US,Human Resources ,7000 Recruitment Fees,Robert Half,Placement fee - Data Analyst,USD,10307.42
-2024-01-05,Meridian Advisory US,Information Technology,6400 Travel & Entertainment,Lyft,Taxi to client site,USD,60.66
-2024-01-05,Meridian Advisory US,Marketing,6500 Training & Development,LinkedIn Learning,Online course licence,USD,575.09
-2024-01-08,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Sweetgreen,Team dinner,USD,10.65
-2024-01-08,Meridian Advisory US,TAX ADVISORY,6400 Travel & Entertainment,Sweetgreen,Client lunch,USD,79.78
-2024-01-08,Meridian Advisory US,Tax Advisory,6420 Lodging,Hyatt,Hotel 3 nights - London,USD,1732.32
-2024-01-08,Meridian Advisory US,Tax Advisory,6500 Training & Development,LinkedIn Learning,CPE course,USD,1204.05
-2024-01-08,Meridian Advisory US,operations,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,82.42
-2024-01-08,Meridian Advisory US,Operations ,6800 Office Supplies,Staples,Stationery order,USD,730.33
-2024-01-09,Meridian Advisory US,Consulting,4000 Professional Fees,Sterling Biotech,INV-US240016 Cost optimisation review,USD,-18898.96
-2024-01-09,Meridian Advisory US,Consulting,4000 Professional Fees,Summit Automotive,INV-US240015 Operating model review,USD,-24981.41
-2024-01-09,Meridian Advisory US,Consulting,6420 Lodging,Hyatt,Hotel 2 nights - London,USD,376.98
-2024-01-09,Meridian Advisory US,Audit & Assurance,6420 Lodging,Marriott,Hotel 2 nights - Atlanta,USD,1305.50
-2024-01-09,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,67.91
-2024-01-09,Meridian Advisory US,Information Technology,6400 Travel and Entertainment,Uber,Taxi - client meeting,USD,24.22
-2024-01-11,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240003 Transformation programme,USD,-21494.85
-2024-01-11,Meridian Advisory US,Consulting,6500 Training & Development,Coursera,Conference registration,USD,1404.13
-2024-01-11,Meridian Advisory US,Tax Advisory,6500 Training & Development,AICPA,Online course licence,USD,1580.08
-2024-01-11,Meridian Advisory US,Finance,6700 Legal & Professional Fees,Hollis & Grant LLP,Entity compliance filings - matter 2634,USD,2286.53
-2024-01-11,Meridian Advisory US,Information Technology,6300 Software Subscriptions,DocuSign,DocuSign subscription Jan 2024,USD,1212.77
-2024-01-12,Meridian Advisory US,Consulting,4000 Professional Fees,Summit Automotive,INV-US240012 Strategy engagement,USD,-56403.31
-2024-01-12,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Ride to airport,USD,57.45
-2024-01-12,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Uber,Taxi to client site,USD,49.11
-2024-01-12,Meridian Advisory US,Information Technology,6310 Cloud Hosting,Google Cloud,Google Cloud usage Jan 2024,USD,2740.26
-2024-01-15,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Sweetgreen,Coffee - client meeting,USD,15.28
-2024-01-15,Meridian Advisory US,Tax,4000 Professional Fees,Castlegate Capital,INV-US240007 Indirect tax advisory,USD,-20358.98
-2024-01-15,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,12.12
-2024-01-15,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Sweetgreen,Coffee - client meeting,USD,235.48
-2024-01-15,Meridian Advisory US,Finance,7100 Insurance,Chubb,Professional indemnity premium Jan 2024,USD,14200.00
-2024-01-15,Meridian Advisory US,Human Resources,6400 Travel & Ent.,Starbucks,Team dinner,USD,576.91
-2024-01-15,Meridian Advisory US,Marketing,6400 Travel & Entertainment,Uber,Taxi - client meeting,USD,91.09
-2024-01-16,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240008 Transformation programme,USD,-27961.15
-2024-01-16,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,48.61
-2024-01-16,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Ride to airport,USD,65.94
-2024-01-16,Meridian Advisory US,Information Technology,6900 Telecommunications,AT&T,Mobile and data plan Jan 2024,USD,638.46
-2024-01-16,Meridian Advisory US,Operations,6400 Travel & Entertainment ,Uber,Taxi - client meeting,USD,87.63
-2024-01-16,Meridian Advisory US,Operations,6800 Office Supplies,Amazon Business,Stationery order,USD,438.64
-2024-01-17,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,UBER,Late ride home - project deadline,USD,78.24
-2024-01-17,Meridian Advisory US,Finance,7200 Bank Charges,JPMorgan Chase,FX conversion charges,USD,437.20
-2024-01-18,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Taxi - client meeting,USD,88.90
-2024-01-18,Meridian Advisory US,Human Resources,6400 Travel & Entertainment,Starbucks,Team dinner,USD,635.15
-2024-01-18,Meridian Advisory US,Information Technology,6800 Office Supplies,Amazon Business,Pantry supplies,USD,22.34
-2024-01-18,Meridian Advisory US,Operations,6800 Office Supplies,Staples,Stationery order,USD,517.76
-2024-01-19,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Late ride home - project deadline,USD,51.50
-2024-01-19,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Ride to airport,USD,91.52
-2024-01-19,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Microsoft Corp.,Microsoft subscription Jan 2024,USD,922.00
-2024-01-19,Meridian Advisory US,Information Technology,6310 Cloud Hosting,Google Cloud,Google Cloud usage Jan 2024,USD,3149.98
-2024-01-19,Meridian Advisory US,Information Technology,6900 Telecommunications,Verizon,Mobile and data plan Jan 2024,USD,2424.83
-2024-01-19,Meridian Advisory US,Marketing,6600 Marketing & Events,Eventbrite,Event tickets - industry breakfast,USD,15929.60
-2024-01-22,Meridian Advisory US,Consulting,4000 Professional Fees,Northwind Logistics,INV-US240014 Cost optimisation review,USD,-14462.25
-2024-01-22,Meridian Advisory US,Audit & Assurance,4100 Reimbursable Expenses Billed,Castlegate Capital,Rebill of engagement travel expenses,USD,-782.58
-2024-01-22,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Starbucks,Client lunch,USD,29.57
-2024-01-22,Meridian Advisory US,Audit & Assurance,6410 Airfare,British Airways,Flight JFK-BOS,USD,1261.58
-2024-01-22,Meridian Advisory US,Finance,6400 Travel & Entertainment,Uber,Taxi to client site,USD,58.47
-01/23/2024,Meridian Advisory US,Consulting,4000 Professional Fees,Brightwater Health,INV-US240011 Transformation programme,USD,-12146.68
-2024-01-23,Meridian Advisory US,Audit & Assurance,4000 Professional Fees,Brightwater Health,INV-US240001 Interim audit fieldwork,USD,-123893.89
-2024-01-23,Meridian Advisory US,Audit & Assurance,6300 Software Subscriptions,Workday,Workday subscription Jan 2024,USD,7682.11
-2024-01-23,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Starbucks,Client lunch,USD,525.86
-2024-01-23,Meridian Advisory US,Information Technology,6300 Software Subscriptions,DocuSign,DocuSign subscription Jan 2024,USD,559.00
-2024-01-24,Meridian Advisory US,Consulting,6400 Travel & Entertainment,Uber,Late ride home - project deadline,USD,39.74
-2024-01-24,Meridian Advisory US,Operations,6400 Travel & Entertainment,Uber,Taxi to client site,USD,13.33
-2024-01-25,Meridian Advisory US,Human Resources,6700 Legal & Professional Fees,Hollis & Grant LLP,Contract review - matter 9665,USD,6128.29
-2024-01-25,Meridian Advisory US,Human Resources,7000 Recruitment Fees,Robert Half,Placement fee - Data Analyst,USD,28247.62
-2024-01-26,Meridian Advisory US,Consulting,4100 Reimbursable Expenses Billed,Brightwater Health,Rebill of engagement travel expenses,USD,-5160.72
-2024-01-26,Meridian Advisory US,Consulting,6420 Lodging,Hilton,Hotel 5 nights - Atlanta,USD,3163.51
-2024-01-26,Meridian Advisory US,Audit & Assurance,6400 Travel & Ent.,Starbucks,Team dinner,USD,358.52
-2024-01-26,Meridian Advisory US,Marketing,6600 Marketing & Events,LinkedIn,LinkedIn sponsored content,USD,727.15
-2024-01-29,Meridian Advisory US,Consulting,4000 Professional Fees,Summit Automotive,INV-US240009 Strategy engagement,USD,-24164.58
-2024-01-29,Meridian Advisory US,Consulting,6420 Lodging,Marriott,Hotel 5 nights - San Francisco,USD,2621.47
-2024-01-29,Meridian Advisory US,Audit & Assurance,6400 Travel & Entertainment,Lyft,Taxi to client site,USD,64.85
-2024-01-29,Meridian Advisory US,Tax Advisory,6400 Travel & Entertainment,Lyft,Ride to airport,USD,77.54
-2024-01-30,Meridian Advisory US ,Consulting,6410 Airfare,Delta Air Lines,Flight JFK-DFW,USD,393.05
-2024-01-30,Meridian Advisory US,Human Resources,7000 Recruitment Fees,Hays,Placement fee - Data Analyst,USD,32499.17
-2024-01-30,Meridian Advisory US,Information Technology,6300 Software Subscriptions,Microsoft,Microsoft licences - 113 seats,USD,1736.38
-2024-01-31,Meridian Advisory US,Consulting,6000 Salaries & Wages,ADP,Payroll Jan 2024 - Consulting,USD,409526.29
-2024-01-31,Meridian Advisory US,Consulting,6050 Employee Benefits,Blue Cross Blue Shield,Employee benefits Jan 2024,USD,63512.18
-2024-01-31,Meridian Advisory US,Consulting,6420 Lodging/Hotels,Hilton,Hotel 4 nights - Chicago,USD,2345.33
-2024-01-31,Meridian Advisory US,Audit & Assurance,6000 Salaries & Wages,ADP,Payroll Jan 2024 - Audit & Assurance,USD,327489.43
-2024-01-31,meridian advisory us,Audit & Assurance,6050 Employee Benefits,Blue Cross Blue Shield,Employee benefits Jan 2024,USD,46629.42
+id,company_name,contact_name,region,amount,order_date,notes
+1,Acme Inc.,ALEX NGUYEN,EMEA,  42  ,20240115,N/A
+2,  Acme Inc  ,  Jordan  Smith  ,EMEA,(500),15 Jan 2024,-
+3,Initech,Casey  Nguyen,LATAM,509.09,01/15/2024,
+4,INITECH,TAYLOR GARCIA,  AMER  ,"(1,200.25)",2023-02-13,-
+5,Initech,RILEY O'BRIEN,  AMER  ,3065.20,20240115,FOLLOW UP
+6,ACME INC,Riley  Smith,AMER,$999.00,"January 15, 2024",FOLLOW UP
+7,INITECH,Casey Smith,Emea,£350.10,2025-06-08,
+8,GLOBEX CORP,Sam O'Brien,N/A,£350.10,  03/01/2023  ,FOLLOW UP
+9,Initech LLC,riley o'brien,  AMER  ,"(1,200.25)",2023-09-04,N/A
+10,Globex Corp,Casey Nguyen,AMER,"€2,000",2024-04-02,FOLLOW UP
+11,  Acme Inc  ,  Casey  Patel  ,AMER,  42  ,20240115,Follow up
+12,"Initech, LLC",Jordan Nguyen,-,$999.00,01-15-2024,FOLLOW UP
+13,Globex Corp,casey patel,AMER,(500),  03/01/2023  ,  needs review  
+14,UMBRELLA CO,  Alex  Smith  ,emea,£350.10,01/15/2024,
+15,Globex Corp.,Riley O'Brien,EMEA,$999.00,2024-01-15,
+16,GLOBEX CORP,  Sam  Smith  ,apac,2061.75,2023-07-01,Follow up
+17,Umbrella Co,Alex  O'Brien,EMEA,  42  ,"January 15, 2024",  needs review  
+18,Globex Corp,jordan o'brien,-,$999.00,2023-07-04,
+19,Umbrella Company,SAM SMITH,AMER,2939.18,"January 15, 2024",FOLLOW UP
+20,UMBRELLA CO,  Sam  Patel  ,N/A,$999.00,01-15-2024,
+21,Initech LLC,SAM NGUYEN,N/A,830.85,01/15/2024,-
+22,n/a,  Casey  Smith  ,  AMER  ,(500),2023-11-21,
+23,None,riley smith,Emea,"1,500",15 Jan 2024,FOLLOW UP
+24,Acme Inc,Casey  Patel,-,422.46,"January 15, 2024",N/A
+25,NULL,Sam  O'Brien,emea,4499.96,2023-11-08,  needs review  
+26,GLOBEX CORP,  Riley  Patel  ,apac,4882.22,"January 15, 2024",N/A
+27,Acme  Inc,Alex  Patel,AMER,12.5%,01-15-2024,-
+28,Acme Inc.,  Jordan  O'Brien  ,  AMER  ,1788.17,2024-01-04,
+29,None,Alex Smith,  AMER  ,  42  ,01-15-2024,  needs review  
+30,Globex Corporation,Casey  Garcia,  AMER  ,2184.92,2024-01-15,-
+31,INITECH,  Casey  Nguyen  ,apac,"1,500",15 Jan 2024,-
+32,"Initech, LLC",SAM NGUYEN,-,"1,500",2024-09-22,FOLLOW UP
+33,GLOBEX CORP,TAYLOR SMITH,apac,$999.00,01-15-2024,N/A
+34,Acme Inc,ALEX SMITH,AMER,3903.18,2025-01-18,Follow up
+35,"Initech, LLC",TAYLOR GARCIA,LATAM,  42  ,15/01/2024,FOLLOW UP
+36,Umbrella Company,CASEY NGUYEN,APAC,1234.27,"January 15, 2024",N/A
+37,GLOBEX CORP,casey nguyen,apac,£350.10,20240115,Follow up
+38,Initech LLC,Jordan  Garcia,LATAM,3779.70,01-15-2024,Follow up
+39,NULL,taylor o'brien,EMEA,3360.92,2023-10-18,FOLLOW UP
+40,None,  Sam  Smith  ,APAC,£350.10,  03/01/2023  ,Follow up
+41,Acme  Inc,ALEX PATEL,EMEA,145.95,2024-01-15,
+42,GLOBEX CORP,jordan o'brien,APAC,2394.13,15 Jan 2024,FOLLOW UP
+43,Globex Corporation,ALEX O'BRIEN,AMER,"-292,545.00",2025-07-23,
+44,Initech,Casey Garcia,emea,  42  ,"January 15, 2024",Follow up
+45,Acme  Inc,riley garcia,N/A,4805.90,2025-03-24,  needs review  
+46,UMBRELLA CO,taylor o'brien,AMER,(500),2022-05-15,FOLLOW UP
+47,Acme  Inc,ALEX O'BRIEN,N/A,"(1,200.25)",15 Jan 2024,
+48,UMBRELLA CO,Sam  Patel,emea,12.5%,01/15/2024,FOLLOW UP
+49,"Initech, LLC",  Sam  Garcia  ,LATAM,2789.69,"January 15, 2024",N/A
+50,--,sam o'brien,LATAM,1611.96,2023-04-24,  needs review  
+51,ACME INC,CASEY GARCIA,EMEA,  42  ,01/15/2024,FOLLOW UP
+52,Umbrella Co,Taylor Nguyen,  AMER  ,12.5%,01/15/2024,Follow up
+53,ACME INC,CASEY O'BRIEN,-,(500),20240115,  needs review  
+54,UMBRELLA CO,  Riley  Patel  ,AMER,"$1,234.50",2024-01-15,FOLLOW UP
+55,--,Sam  Garcia,AMER,12.5%,2025-05-02,
+56,INITECH,sam o'brien,Emea,2154.44,2023-02-02,-
+57,Umbrella Company,  Alex  Smith  ,-,  42  ,2024-01-15,  needs review  
+58,ACME INC,Taylor  O'Brien,Emea,4811.46,2024-10-02,-
+59,Umbrella Company,Sam  Smith,Emea,£350.10,2024-01-15,-
+60,Umbrella Company,Riley  O'Brien,EMEA,$999.00,2025-09-27,Follow up
+61,#N/A,Sam  Smith,Emea,1840.81,2023-05-18,
+62,,Alex Smith,AMER,"$1,234.50",2024-01-15,FOLLOW UP
+63,Umbrella Company,taylor patel,Emea,12.5%,2023-08-18,  needs review  
+64,Globex Corp,riley garcia,  AMER  ,  42  ,01/15/2024,  needs review  
+65,Umbrella Co,riley patel,AMER,  42  ,"January 15, 2024",Follow up
+66,Umbrella Co,alex patel,LATAM,1624.97,15/01/2024,  needs review  
+67,Acme  Inc,  Taylor  Garcia  ,emea,"1,500",15/01/2024,  needs review  
+68,Acme Inc.,Alex O'Brien,N/A,"€2,000",  03/01/2023  ,N/A
+69,INITECH,Alex Garcia,EMEA,$999.00,15 Jan 2024,-
+70,Umbrella Co,casey smith,emea,1258.78,15/01/2024,FOLLOW UP
+71,GLOBEX CORP,Jordan  Nguyen,N/A,"$1,234.50",2025-05-22,-
+72,"Initech, LLC",  Sam  O'Brien  ,-,£350.10,2022-04-13,FOLLOW UP
+73,UMBRELLA CO,CASEY GARCIA,AMER,90.08,2025-05-25,FOLLOW UP
+74,INITECH,CASEY GARCIA,EMEA,3159.83,  03/01/2023  ,
+75,"Initech, LLC",  Sam  Smith  ,Emea,"€2,000",15 Jan 2024,FOLLOW UP
+76,Acme  Inc,  Taylor  Nguyen  ,emea,4816.32,2025-09-12,  needs review  
+77,NULL,taylor nguyen,AMER,3380.50,2024-02-22,  needs review  
+78,Globex Corp,  Alex  Nguyen  ,Emea,3195.25,2024-01-15,Follow up
+79,--,Riley  Nguyen,apac,  42  ,15/01/2024,  needs review  
+80,Initech,Riley Garcia,N/A,(500),2022-11-12,Follow up
+81,Acme  Inc,Casey Patel,Emea,503.78,2022-06-08,  needs review  
+82,GLOBEX CORP,CASEY GARCIA,Emea,1676.37,15/01/2024,
+83,ACME INC,jordan smith,EMEA,"€2,000",15 Jan 2024,
+84,UMBRELLA CO,Sam Smith,N/A,  42  ,01/15/2024,
+85,UMBRELLA CO,Casey Patel,APAC,3446.18,2024-01-15,N/A
+86,"Initech, LLC",Riley  Patel,N/A,£350.10,2024-01-15,Follow up
+87,UMBRELLA CO,Sam  Patel,  AMER  ,4145.73,"January 15, 2024",
+88,n/a,Sam  Nguyen,N/A,511.49,2022-10-18,-
+89,Umbrella Company,RILEY SMITH,Emea,$999.00,01-15-2024,
+90,Initech,  Alex  Patel  ,  AMER  ,3824.90,2022-10-22,FOLLOW UP
+91,Initech LLC,ALEX O'BRIEN,EMEA,80.22,15/01/2024,Follow up
+92,INITECH,jordan patel,EMEA,1881.76,2024-01-15,
+93,"Initech, LLC",  Taylor  Nguyen  ,APAC,"(1,200.25)",2024-01-15,FOLLOW UP
+94,Umbrella Company,  Jordan  Garcia  ,AMER,"$1,234.50",15 Jan 2024,-
+95,?,Taylor  Nguyen,emea,(500),"January 15, 2024",
+96,Acme Inc.,ALEX GARCIA,apac,2900.01,2024-01-15,  needs review  
+97,Initech,RILEY GARCIA,  AMER  ,£350.10,20240115,-
+98,  Acme Inc  ,  Alex  Patel  ,AMER,"€2,000",15/01/2024,N/A
+99,Globex Corp,Taylor  Nguyen,Emea,12.5%,2024-11-11,Follow up
+100,Initech,riley nguyen,emea,"$1,234.50",15 Jan 2024,  needs review  
+101,Umbrella Company,casey smith,APAC,2793.87,01-15-2024,N/A
+102,Umbrella Co,Jordan  Smith,EMEA,4064.29,15/01/2024,  needs review  
+103,Globex Corporation,Alex Garcia,APAC,"€2,000",2022-11-21,  needs review  
+104,Initech LLC,Sam  Garcia,Emea,3632.48,2024-02-19,N/A
+105,Acme Inc.,Casey Garcia,apac,"1,500",2022-11-22,-
+106,Globex Corporation,casey o'brien,emea,"1,500",15 Jan 2024,
+107,Globex Corp.,  Alex  Smith  ,LATAM,813.55,15/01/2024,FOLLOW UP
+108,Umbrella Company,Sam  O'Brien,AMER,  42  ,  03/01/2023  ,Follow up
+109,Umbrella Company,Sam O'Brien,LATAM,2660.93,2023-05-02,FOLLOW UP
+110,Acme Inc.,  Jordan  Smith  ,emea,  42  ,20240115,
+111,Umbrella Company,Jordan Patel,APAC,(500),2024-01-15,-
+112,Umbrella Company,casey o'brien,Emea,"$1,234.50",2022-05-07,Follow up
+113,null,casey nguyen,-,12.5%,  03/01/2023  ,  needs review  
+114,Globex Corporation,sam nguyen,N/A,£350.10,2024-01-15,  needs review  
+115,Acme  Inc,ALEX GARCIA,APAC,"€2,000",01/15/2024,FOLLOW UP
+116,  Acme Inc  ,RILEY SMITH,LATAM,  42  ,15/01/2024,N/A
+117,?,  Casey  Smith  ,apac,233.07,2024-05-17,
+118,Globex Corporation,Taylor  Smith,APAC,1817.02,2024-01-15,Follow up
+119,Globex Corp.,alex smith,apac,3475.74,2024-01-15,N/A
+120,Initech,  Taylor  Nguyen  ,APAC,£350.10,  03/01/2023  ,  needs review  
